@@ -4,10 +4,10 @@ Every year, drowsy driving claims thousands of lives. We built Driver Alert Moni
 # 2. What it does
 Driver Alert Monitor uses your phone's front camera to continuously watch for signs of drowsiness while you drive. The moment it detects danger, it sounds a loud alarm to wake you up.
 It watches for:
-###a. Eyes closing or drooping for more than 2 seconds
-###b. Head tilting forward, backward, left, or right
-###c. Face turning away from the camera
-###d. No face visible in frame
+### a. Eyes closing or drooping for more than 2 seconds
+### b. Head tilting forward, backward, left, or right
+### c. Face turning away from the camera
+### d. No face visible in frame
 
 Everything runs entirely on your device. No account. No subscription. No data ever leaves your phone.
 
