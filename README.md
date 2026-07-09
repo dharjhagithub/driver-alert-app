@@ -19,7 +19,7 @@ Truly free — no ads, no in-app purchases, no hidden costs, ever
 Private by design — all AI processing happens on-device, no video is recorded or transmitted
 Self-calibrating — adapts to your face, lighting, and camera at the start of every session
 Works offline — after first launch, no internet connection required
-Open source — MIT licensed, fully auditable, free to modify and redistribute
+Open source — MIT licensed, fully auditable
 
 # 5. Get it. Share it. Drive safer.
 Driver Alert Monitor is released under the MIT License. Free to use, free to modify, free to distribute. Because safer roads belong to everyone.
