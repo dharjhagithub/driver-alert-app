@@ -26,3 +26,7 @@ Driver Alert Monitor is released under the MIT License. Free to use, free to mod
 
 # 7. Hashtags
 #DrowsyDriving #RoadSafety #OpenSource #MITLicense #DriverSafety #FreeApp #SaveLives #TensorFlowJS #AndroidApp
+
+# 8. Released for limited users
+Please download and install app-debug.apk on your Android device and try it out.
+Please know that this app is in Debug mode and would collect logs locally - on your device. Please copy and paste the logs to text file and send to developer 
