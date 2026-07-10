@@ -132,7 +132,7 @@ Because the App collects no personal data, there is no personal data to access, 
 
 If you have questions about this policy or the App's data practices, you may contact the developer at:
 
-**Email:** [your@email.com]
+**Email:** dhaajh@gmail
 **GitHub:** https://github.com/dharjhagithub/driver-alert-app/issues
 
 ---
